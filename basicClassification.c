@@ -17,7 +17,7 @@ int isPrime(int num) {
         return True;
     }
 
-    for (int i = 2; i < sqrt(num); ++i) {
+    for (int i = 2; i <= sqrt(num); ++i) {
         if (num % i == 0) {
             return False;
         }
