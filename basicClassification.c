@@ -1,6 +1,4 @@
-//
-// Created by Yakov Khodorkovski on 05/11/2021.
-//
+
 #include <stdio.h>
 #include <math.h>
 #include "NumClass.h"
